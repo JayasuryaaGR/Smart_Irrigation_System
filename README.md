@@ -16,3 +16,5 @@ Through the mobile Application, we also can control the irrigation of the field.
 We can set the irrigation level just by choosing the water flow speed in the app.
 The app sends that data to the Firebase database, which the LabVIEW fetches.
 Based on that value, the Pulse Width Modulation (PWM) given for the servo motor varies and hence the opening of irrigation tap can be controlled from anywhere in the world.
+
+Project Demonstration: https://drive.google.com/file/d/1wxDoYBzcVa3aSXSdzQzU02IYnPuKxV7n/view?usp=sharing 
